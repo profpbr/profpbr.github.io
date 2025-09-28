@@ -22,13 +22,13 @@ title: "Minor Research Projects & Industry Collaboration - Prof. PBR"
 
 ---
 
-# 🎓 Seminar Grants
+# 💰 Seminar Grants
 
 ## ICSSR Grant for Seminar 2024
 - **Role:** Seminar Director  
 - **Amount:** ₹40,000  
 - **Year:** 2024  
 
----
+--- 
 
 [⬅ Back to Resume](index.md)
