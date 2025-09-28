@@ -6,9 +6,9 @@ title: "Prof. PBR - Resume"
 
 # Prof. Patcha Bhujanga Rao  
 
-📧 Email: your.email@example.com  
-🌐 LinkedIn: [linkedin.com/in/yourprofile](#)  
-🐙 GitHub: [github.com/username](#)  
+📧 Email: prof.pbr@gmail.com  
+🌐 LinkedIn: [www.linkedin.com/in/prof-pbr](#)  
+🐙 GitHub: [profpbr.github.io](#)  
 
 ---
 
@@ -18,6 +18,7 @@ title: "Prof. PBR - Resume"
 •	M.Phil in Commerce (HR Specialization), Sri Venkateswara University, Tirupati - 71% | 2001
 
 •	Master of Commerce (M.Com), Sri Venkateswara University, Tirupati - 66% | 1998
+
 •	Master of Business Administration (MBA - HR), Alagappa University, Karaikudi - 64% | 2008
 
 •	M.Sc. in Psychology, Sri Venkateswara University, Tirupati - 61.67% | 2012
