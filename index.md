@@ -116,6 +116,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
  * **Basic Computer Course** – *Scored 81.18%*  
  * **MS Office Certified Course** – *Scored 60%*  
  * **Cyber Awareness Quiz** – *Scored 75%*
+   
 ---
 
 ## 📚 Publications & Intellectual Output
