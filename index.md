@@ -97,7 +97,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
-## Education
+## 📚 Education
 
 * **Ph.D. in Commerce (HR Specialization)** - Sri Venkateswara University, Tirupati (Awarded 2005)
 * **M.Phil. in Commerce (HR)** - Sri Venkateswara University, Tirupati – 71% (2001)
@@ -108,6 +108,22 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
+## 📜 Certifications
+
+* **Diploma in Computerized Financial Accounting (Tally 5.4–5/b:1)**  
+  Loyola Institute of Business Administration (LIBA), Chennai – *95% | 1999*
+
+* **English Typing Course** – Completed in 2021  
+
+* **Computer Basics Examination** – *Scored 82%*  
+
+* **Basic Computer Course** – *Scored 81.18%*  
+
+* **MS Office Certified Course** – *Scored 60%*  
+
+* **Cyber Awareness Quiz** – *Scored 75%*
+
+---
 ## Publications & Intellectual Output
 
 * **Books:** 17 authored books (textbooks and reference works in commerce & HR).
