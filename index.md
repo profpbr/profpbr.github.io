@@ -1,18 +1,18 @@
 ---
+title: "Prof. Patcha Bhujanga Rao (Prof. PBR) - Resume"
+---
 
-## title: "Prof. Patcha Bhujanga Rao (Prof. PBR) - Resume"
+# Prof. Patcha Bhujanga Rao,
+M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.
 
-<!-- This `index.md` is a Markdown resume laid out to match the two-column visual from your image. Replace or update any field as needed. -->
+![Profile Image](ecb68513-6827-449d-835f-fe11e1141170.png)
 
-# ![Profile Image](ecb68513-6827-449d-835f-fe11e1141170.png)
+📧 **Email:** prof.pbr@gmail.com  
+📱 **Phone:** +91-XXXXXXXXXX  
+📍 **Location:** Bangalore, India  
+🌐 **LinkedIn:** https://www.linkedin.com/in/prof-pbr  
+🐙 **GitHub / Site:** https://profpbr.github.io
 
-**Prof. Patcha Bhujanga Rao, M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.**
-
-📧 **Email:** [prof.pbr@gmail.com](mailto:prof.pbr@gmail.com)
-📱 **Phone:** +91-XXXXXXXXXX
-📍 **Location:** Bangalore, India
-🌐 **LinkedIn:** [https://www.linkedin.com/in/prof-pbr](https://www.linkedin.com/in/prof-pbr)
-🐙 **GitHub / Site:** [https://profpbr.github.io](https://profpbr.github.io)
 
 ---
 
