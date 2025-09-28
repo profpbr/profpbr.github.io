@@ -8,7 +8,7 @@ M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.
 ![Profile Image](ecb68513-6827-449d-835f-fe11e1141170.png)
 
 📧 **Email:** prof.pbr@gmail.com  
-📱 **Phone:** +91-XXXXXXXXXX  
+📱 **Phone:** +91-8121 320 321 
 📍 **Location:** Bangalore, India  
 🌐 **LinkedIn:** https://www.linkedin.com/in/prof-pbr  
 🐙 **GitHub / Site:** https://profpbr.github.io
