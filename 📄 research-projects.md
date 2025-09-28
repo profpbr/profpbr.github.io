@@ -1,5 +1,5 @@
 ---
-title: "Minor Research Projects - Prof. PBR"
+title: "Minor Research Projects & Seminar Grants - Prof. PBR"
 ---
 
 <link rel="stylesheet" href="style.css">
@@ -19,6 +19,15 @@ title: "Minor Research Projects - Prof. PBR"
 - **Role:** Co-Investigator  
 - **Funding Institution:** Institutional Research Grant, Jain (Deemed-to-be) University  
 - **Sanctioned Amount:** ₹2,00,000  
+
+---
+
+# 🎓 Seminar Grants
+
+## ICSSR Grant for Seminar 2024
+- **Role:** Seminar Director  
+- **Amount:** ₹40,000  
+- **Year:** 2024  
 
 ---
 
