@@ -13,11 +13,12 @@ title: "Prof. PBR - Resume"
 ---
 
 ## 🎓 Education
+- LLB
+- MBA(HR)
 - Ph.D. in Commerce  
 - M.Com in Financial Analysis  
 - M.Phil in Commerce  
-- B.Com (Honors)  
-- Any other relevant certifications or diplomas  
+- B.Com
 
 ---
 
