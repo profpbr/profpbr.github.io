@@ -138,7 +138,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## 📜 Patents
 
-* **Patents Granted / Published:** 8
+* **Patents Granted / Published:** 9
 * **Designs Registered:** 1
   
 👉 [View My Patents](patents.md)
