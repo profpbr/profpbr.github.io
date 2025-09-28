@@ -19,7 +19,7 @@ title: "Publications - Prof. PBR"
 ---
 
 ## Chapters Published
-1. 1.	Rao, P. B. (2025). Transforming healthcare management: The multifaceted influence of artificial intelligence. In Transforming healthcare management: The multifaceted influence of artificial intelligence (pages 1-32). IGI Global. https://doi.org/10.4018/979-8-3693-9591-2.ch001
+1. Rao, P. B. (2025). Transforming healthcare management: The multifaceted influence of artificial intelligence. In Transforming healthcare management: The multifaceted influence of artificial intelligence (pages 1-32). IGI Global. https://doi.org/10.4018/979-8-3693-9591-2.ch001
 2.	Rao, P. B. (2025). The impact of HR analytics and big data on decision making in healthcare organizations. In Cutting edge technologies for business sectors (pages 335-366). IGI Global. https://doi.org/10.4018/979-8-3693-9586-8.ch012
 3.	Rao, P. B. (2025). Sustainable architecture as a catalyst for eco-tourism: Analyzing tourist behavior and perceptions. In Integrating architecture and design into sustainable tourism development  (pages 331-362). IGI Global. https://doi.org/10.4018/979-8-3693-7388-0.ch012
 4.	Rao, P. B. (2025). Strategies and practices for instructors in online open elective courses: Teacher lessons. In Best practices and strategies for online instructors: Insights from higher education online faculty  (pages 471-496). IGI Global. https://doi.org/10.4018/979-8-3693-4407-1.ch017
