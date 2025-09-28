@@ -5,7 +5,8 @@ title: "Prof. Patcha Bhujanga Rao (Prof. PBR) - Resume"
 # Prof. Patcha Bhujanga Rao,
 M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.
 
-<img src="assets/profile.png" alt="Prof. PBR" style="width:150px; border-radius:50%;">
+<img src="https://raw.githubusercontent.com/profpbr/profpbr.github.io/main/assets/profile.png" alt="Prof. PBR" style="width:150px; border-radius:50%;">
+
 
 📧 **Email:** prof.pbr@gmail.com  
 📱 **Phone:** +91-8121 320 321 
