@@ -110,14 +110,13 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## 📜 Certifications
 
-* **Diploma in Computerized Financial Accounting (Tally 5.4–5/b:1)**  
+ * **Diploma in Computerized Financial Accounting (Tally 5.4–5/b:1)**  
   Loyola Institute of Business Administration (LIBA), Chennai – *95% | 1999*
-
-* **English Typing Course** – Completed in 2021  
-* **Computer Basics Examination** – *Scored 82%*  
-* **Basic Computer Course** – *Scored 81.18%*  
-* **MS Office Certified Course** – *Scored 60%*  
-* **Cyber Awareness Quiz** – *Scored 75%*
+ * **English Typing Course** – Completed in 2021  
+ * **Computer Basics Examination** – *Scored 82%*  
+ * **Basic Computer Course** – *Scored 81.18%*  
+ * **MS Office Certified Course** – *Scored 60%*  
+ * **Cyber Awareness Quiz** – *Scored 75%*
 ---
 
 ## 📚 Publications & Intellectual Output
@@ -140,16 +139,10 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
-## 🧪 Minor Research Projects
+## 🧪 Minor Research Projects & Seminar Grants -
+* **Minor Research Project:** 2
+*  **ICSSR Grant for Seminar 2024**: 1
 👉[View Details](research-projects.md)
-
----
-# 🎓 Seminar Grants
-
-## ICSSR Grant for Seminar 2024
-- **Role:** Seminar Director  
-- **Amount:** ₹40,000  
-- **Year:** 2024  
 
 ---
 
