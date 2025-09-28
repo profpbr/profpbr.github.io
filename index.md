@@ -129,13 +129,18 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 * **Articles Published (Recent):** 8  
 * **Chapters Published:** 20  
-* **Books Published:** 15  
+* **Books Published:** 15
+  
 👉 [View Full List](publications.md)
 
 
 ---
 
 ## 📜 Patents
+
+* **Patents Granted / Published:** 8
+* **Designs Registered:** 1
+  
 👉 [View My Patents](patents.md)
 
 ---
