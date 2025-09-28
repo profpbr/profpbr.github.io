@@ -114,15 +114,10 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
   Loyola Institute of Business Administration (LIBA), Chennai – *95% | 1999*
 
 * **English Typing Course** – Completed in 2021  
-
 * **Computer Basics Examination** – *Scored 82%*  
-
 * **Basic Computer Course** – *Scored 81.18%*  
-
 * **MS Office Certified Course** – *Scored 60%*  
-
 * **Cyber Awareness Quiz** – *Scored 75%*
-
 ---
 
 ## 📚 Publications & Intellectual Output
