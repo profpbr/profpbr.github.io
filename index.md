@@ -124,20 +124,24 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 * **Cyber Awareness Quiz** – *Scored 75%*
 
 ---
-## Publications & Intellectual Output
 
-* **Books:** 17 authored books (textbooks and reference works in commerce & HR).
-* **Articles / Papers:** 130+ research papers published in national and international journals and conference proceedings.
+## 📚 Publications & Intellectual Output
+
+* **Articles Published (Recent):** 8  
+* **Chapters Published:** 20  
+* **Books Published:** 15  
+👉 [View Full List](publications.md)
+
 
 ---
 
 ## 📜 Patents
-- [View My Patents](patents.md)
+👉 [View My Patents](patents.md)
 
 ---
 
 ## 🧪 Minor Research Projects
-- [View Details](research-projects.md)
+👉[View Details](research-projects.md)
 
 ---
 # 🎓 Seminar Grants
