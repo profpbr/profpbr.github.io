@@ -1,54 +1,146 @@
 ---
-title: "Prof. PBR - Resume"
----
 
-<link rel="stylesheet" href="style.css">
+## title: "Prof. Patcha Bhujanga Rao (Prof. PBR) - Resume"
 
-# Prof. Patcha Bhujanga Rao  
+<!-- This `index.md` is a Markdown resume laid out to match the two-column visual from your image. Replace or update any field as needed. -->
 
-📧 Email: prof.pbr@gmail.com  
-🌐 LinkedIn: [www.linkedin.com/in/prof-pbr](#)  
-🐙 GitHub: [profpbr.github.io](#)  
+# Prof. Patcha Bhujanga Rao  (Prof. PBR)
 
----
-
-## 🎓 Education
-•	Ph.D. in Commerce (HR Specialization), Sri Venkateswara University, Tirupati - Awarded in 2005
-
-•	M.Phil in Commerce (HR Specialization), Sri Venkateswara University, Tirupati - 71% | 2001
-
-•	Master of Commerce (M.Com), Sri Venkateswara University, Tirupati - 66% | 1998
-
-•	Master of Business Administration (MBA - HR), Alagappa University, Karaikudi - 64% | 2008
-
-•	M.Sc. in Psychology, Sri Venkateswara University, Tirupati - 61.67% | 2012
-
-•	Bachelor of Law (LL.B), Vikrama Simhapuri University, Nellore -54.93% | 2017
-
+📧 **Email:** [prof.pbr@gmail.com](mailto:prof.pbr@gmail.com)
+📱 **Phone:** +91-8121320321
+📍 **Location:** Bangalore, India
+🌐 **LinkedIn:** [https://www.linkedin.com/in/prof-pbr](https://www.linkedin.com/in/prof-pbr)
+🐙 **GitHub / Site:** [https://profpbr.github.io](https://profpbr.github.io)
 
 ---
 
-## 💼 Professional Experience
-- **Professor, School of Commerce** (2000–Present)  
-  Teaching, research guidance, and mentoring students.  
+## Professional Summary
 
-- **Industry Collaborations**  
-  Led projects integrating commerce, finance, and real-world business applications.  
+Professor of Commerce and Management Studies with over 23+ years of teaching, research and academic leadership experience. Expertise in Human Resource Management, employability training, curriculum design, outcome-based education and patent & innovation coordination. Strong history of guiding student research, publishing extensively (books, journal articles, conference papers), and building industry-institute collaborations to boost practical learning.
 
 ---
 
-## 📚 Publications
-- 17 Books authored  
-- 130+ Research Papers published in journals and conferences  
+## Skills (Selected)
+
+* Curriculum Design & Academic Planning
+* Research Guidance & Supervision
+* Outcome Based Education (TLEP, CO/PO/PSO mapping)
+* Patent Coordination & IP Documentation
+* Project-Centric & Experiential Learning
+* Employability Training & Career Counseling
+* Quantitative & Qualitative Research Methods
+* Soft Skills, Communication & Leadership Development
 
 ---
 
-## 📜 Patents
-- [View My Patents](patents.md)  
+## Professional Experience
+
+### Professor of Commerce & Management Studies
+
+**Jain (Deemed-to-be University), Bangalore, India** (May 2021 – Present)
+
+* Extended Committee Coordinator for patent publication initiatives and IP awareness.
+* Member, Board of Studies (BOS): curriculum design, program strategy and academic planning.
+* Participated in Teaching-Learning Evaluation Process (TLEP) and accreditation-related activities (NAAC / NBA alignment).
+* Project-Centric Learning Coordinator: mentored students in industry-aligned projects and assessments.
+* Departmental Research Committee (DRC) Member: research guidance, doctoral progress evaluation and quality assurance.
+* Guided faculty and students for national / international journal publications and conferences.
 
 ---
 
-## ✨ Achievements
-- Mentored 100s of students to professional success  
-- 23+ years of teaching and research experience  
-- Integrating classroom learning with industry applications  
+### Professor of Management Studies
+
+**Sreenivasa Institute of Technology & Management Studies, Chittoor** (Jul 2011 – Feb 2021)
+
+* Taught MBA courses (HR, Organizational Behaviour, Strategic Management) and guided dissertations.
+* Led curriculum updates, organized state-level management events and alumni engagement activities.
+* Implemented skill-development programs and industry interaction sessions to improve placement outcomes.
+
+---
+
+### Professor of Management Studies
+
+**Paladugu Parvathi Devi College of Engineering & Technology, Vijayawada** (Feb 2010 – Apr 2011)
+
+* Delivered management lectures and coordinated industry-institution partnerships.
+* Guided student teams for competitions, business-plan events and project showcases.
+
+---
+
+### Principal In-Charge & Professor of Management Studies
+
+**SV Arts & Science College, Gudur** (May 2009 – Jan 2010)
+
+* Managed administrative and academic operations as acting Principal.
+* Organized interdisciplinary seminars and career workshops for students and faculty.
+
+---
+
+### Associate Professor / Professor of Management Studies
+
+**Andhra Loyola College, Vijayawada** (Jul 2006 – Apr 2009)
+
+* Developed and delivered postgraduate HR and Commerce curriculum; coordinated industry visits and faculty development.
+
+---
+
+### Earlier Positions
+
+* Assistant Professor of Commerce & Management Studies — PGP College of Arts & Science, Namakkal (Jul 2005 – Feb 2006)
+* Employability Skills Trainer — Career Development Foundation of India, Chennai (Jun 2004 – May 2005)
+* Lecturer of Commerce — SEICOM Degree & PG College, Tirupati (Jul 2001 – May 2004)
+
+---
+
+## Education
+
+* **Ph.D. in Commerce (HR Specialization)** — Sri Venkateswara University, Tirupati (Awarded 2005)
+* **M.Phil. in Commerce (HR)** — Sri Venkateswara University, Tirupati — 71% (2001)
+* **M.Com. (Commerce)** — Sri Venkateswara University, Tirupati — 66% (1998)
+* **MBA (HR)** — Alagappa University, Karaikudi — 64% (2008)
+* **M.Sc. Psychology** — Sri Venkateswara University, Tirupati — 61.67% (2012)
+* **LL.B.** — Vikrama Simhapuri University, Nellore — 54.93% (2017)
+
+---
+
+## Publications & Intellectual Output
+
+* **Books:** 17 authored books (textbooks and reference works in commerce & HR).
+* **Articles / Papers:** 130+ research papers published in national and international journals and conference proceedings.
+
+---
+
+## Patents
+
+* For patent listings, link or include your patents file. Example: `[Patents List](patents.md)`
+
+---
+
+## Selected Achievements
+
+* Mentored hundreds of students for academic and professional success.
+* Over two decades of experience in teaching, research and academic leadership.
+* Successfully integrated classroom teaching with industry-oriented projects and placements.
+
+---
+
+## Minor Research Projects & Industry Collaboration
+
+* Led and contributed to applied research projects integrating commerce, finance, HR analytics and industry case-studies.
+* Coordinated student-industry projects that produced outcome-based assessments and placement-ready portfolios.
+
+---
+
+## Seminars, Workshops & Training
+
+* Conducted and organized multiple seminars and workshops on employability, research methods, patent awareness and soft skills for students and faculty.
+
+---
+
+## Notes / Assets
+
+* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png` — use it if you want to embed or convert the exact visual into HTML/CSS later.
+
+---
+
+*This `index.md` is intended as a ready-to-use Markdown resume. Edit any section to fit your preferred wording, contact details, or to add links to PDFs, ORCID, Google Scholar, or patent records.*
