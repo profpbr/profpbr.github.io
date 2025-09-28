@@ -88,20 +88,20 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ### Earlier Positions
 
-* Assistant Professor of Commerce & Management Studies — PGP College of Arts & Science, Namakkal (Jul 2005 – Feb 2006)
-* Employability Skills Trainer — Career Development Foundation of India, Chennai (Jun 2004 – May 2005)
-* Lecturer of Commerce — SEICOM Degree & PG College, Tirupati (Jul 2001 – May 2004)
+* Assistant Professor of Commerce & Management Studies  –  PGP College of Arts & Science, Namakkal (Jul 2005 – Feb 2006)
+* Employability Skills Trainer  –  Career Development Foundation of India, Chennai (Jun 2004 – May 2005)
+* Lecturer of Commerce  –  SEICOM Degree & PG College, Tirupati (Jul 2001 – May 2004)
 
 ---
 
 ## Education
 
 * **Ph.D. in Commerce (HR Specialization)** - Sri Venkateswara University, Tirupati (Awarded 2005)
-* **M.Phil. in Commerce (HR)** - Sri Venkateswara University, Tirupati — 71% (2001)
-* **M.Com. (Commerce)** - Sri Venkateswara University, Tirupati — 66% (1998)
-* **MBA (HR)**  - Alagappa University, Karaikudi — 64% (2008)
-* **M.Sc. Psychology** - Sri Venkateswara University, Tirupati — 61.67% (2012)
-* **LL.B.** - Vikrama Simhapuri University, Nellore — 54.93% (2017)
+* **M.Phil. in Commerce (HR)** - Sri Venkateswara University, Tirupati – 71% (2001)
+* **M.Com. (Commerce)** - Sri Venkateswara University, Tirupati – 66% (1998)
+* **MBA (HR)**  - Alagappa University, Karaikudi  –  64% (2008)
+* **M.Sc. Psychology** - Sri Venkateswara University, Tirupati – 61.67% (2012)
+* **LL.B.** - Vikrama Simhapuri University, Nellore – 54.93% (2017)
 
 ---
 
@@ -140,7 +140,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## Notes / Assets
 
-* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png` — use it if you want to embed or convert the exact visual into HTML/CSS later.
+* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png`  –  use it if you want to embed or convert the exact visual into HTML/CSS later.
 
 ---
 
