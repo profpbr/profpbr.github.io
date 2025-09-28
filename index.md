@@ -135,4 +135,14 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## Seminars, Workshops & Training
 
-* Conducted and organized multiple seminars and workshops on employability, research methods, patent awarenes
+* Conducted and organized multiple seminars and workshops on employability, research methods, patent awareness and soft skills for students and faculty.
+
+---
+
+## Notes / Assets
+
+* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png` — use it if you want to embed or convert the exact visual into HTML/CSS later.
+
+---
+
+*This `index.md` is intended as a ready-to-use Markdown resume. Edit any section to fit your preferred wording, contact details, or to add links to PDFs, ORCID, Google Scholar, or patent records.*
