@@ -112,9 +112,8 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
-## Patents
-
-* For patent listings, link or include your patents file. Example: `[Patents List](patents.md)`
+## 📜 Patents
+- [View My Patents](patents.md)
 
 ---
 
