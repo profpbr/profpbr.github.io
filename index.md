@@ -119,37 +119,10 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 - [View My Patents](patents.md)
 
 ---
-
-## Selected Achievements
-
-* Mentored hundreds of students for academic and professional success.
-* Over two decades of experience in teaching, research and academic leadership.
-* Successfully integrated classroom teaching with industry-oriented projects and placements.
+## 🧪 Minor Research Projects
+- [View Details](research-projects.md)
 
 ---
-title: "Minor Research Projects & Industry Collaboration - Prof. PBR"
----
-
-<link rel="stylesheet" href="style.css">
-
-# 🧪 Minor Research Projects
-
----
-
-## 1. Evaluating the Implementation Effectiveness of NEP 2020: Awareness, Challenges, and Educators' Responses at Jain Deemed-To-Be University
-- **Role:** Principal Investigator  
-- **Funding Institution:** Institutional Research Grant, Jain (Deemed-to-be) University  
-- **Sanctioned Amount:** ₹2,00,000  
-
----
-
-## 2. Cognitive Behavioral Therapy
-- **Role:** Co-Investigator  
-- **Funding Institution:** Institutional Research Grant, Jain (Deemed-to-be) University  
-- **Sanctioned Amount:** ₹2,00,000  
-
----
-
 # 🎓 Seminar Grants
 
 ## ICSSR Grant for Seminar 2024
@@ -166,21 +139,8 @@ title: "Minor Research Projects & Industry Collaboration - Prof. PBR"
 
 ---
 
-[⬅ Back to Resume](index.md)
-
-
----
-
 ## Seminars, Workshops & Training
 
 * Conducted and organized multiple seminars and workshops on employability, research methods, patent awareness and soft skills for students and faculty.
 
 ---
-
-## Notes / Assets
-
-* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png`  –  use it if you want to embed or convert the exact visual into HTML/CSS later.
-
----
-
-*This `index.md` is intended as a ready-to-use Markdown resume. Edit any section to fit your preferred wording, contact details, or to add links to PDFs, ORCID, Google Scholar, or patent records.*
