@@ -16,7 +16,6 @@ M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.
 🌐 **LinkedIn:** https://www.linkedin.com/in/prof-pbr  
 🐙 **GitHub / Site:** https://profpbr.github.io
 
-
 ---
 
 ## Professional Summary
@@ -139,9 +138,11 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
-## 🧪 Minor Research Projects & Seminar Grants -
+## 🧪 Minor Research Projects & Seminar Grants
+
 * **Minor Research Project:** 2
 *  **ICSSR Grant for Seminar 2024**: 1
+  
 👉[View Details](research-projects.md)
 
 ---
