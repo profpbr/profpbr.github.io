@@ -119,6 +119,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 - [View My Patents](patents.md)
 
 ---
+
 ## 🧪 Minor Research Projects
 - [View Details](research-projects.md)
 
