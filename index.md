@@ -13,12 +13,19 @@ title: "Prof. PBR - Resume"
 ---
 
 ## 🎓 Education
-- LLB
-- MBA(HR)
-- Ph.D. in Commerce  
-- M.Com in Financial Analysis  
-- M.Phil in Commerce  
-- B.Com
+•	Ph.D. in Commerce (HR Specialization)
+Sri Venkateswara University, Tirupati - Awarded in 2005
+•	M.Phil in Commerce (HR Specialization)
+Sri Venkateswara University, Tirupati - 71% | 2001
+•	Master of Commerce (M.Com)
+Sri Venkateswara University, Tirupati - 66% | 1998
+•	Master of Business Administration (MBA - HR)
+Alagappa University, Karaikudi - 64% | 2008
+•	M.Sc. in Psychology
+Sri Venkateswara University, Tirupati - 61.67% | 2012
+•	Bachelor of Law (LL.B)
+Vikrama Simhapuri University, Nellore -54.93% | 2017
+
 
 ---
 
