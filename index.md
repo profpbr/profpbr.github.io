@@ -96,12 +96,12 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## Education
 
-* **Ph.D. in Commerce (HR Specialization)** — Sri Venkateswara University, Tirupati (Awarded 2005)
-* **M.Phil. in Commerce (HR)** — Sri Venkateswara University, Tirupati — 71% (2001)
-* **M.Com. (Commerce)** — Sri Venkateswara University, Tirupati — 66% (1998)
-* **MBA (HR)** — Alagappa University, Karaikudi — 64% (2008)
-* **M.Sc. Psychology** — Sri Venkateswara University, Tirupati — 61.67% (2012)
-* **LL.B.** — Vikrama Simhapuri University, Nellore — 54.93% (2017)
+* **Ph.D. in Commerce (HR Specialization)** - Sri Venkateswara University, Tirupati (Awarded 2005)
+* **M.Phil. in Commerce (HR)** - Sri Venkateswara University, Tirupati — 71% (2001)
+* **M.Com. (Commerce)** - Sri Venkateswara University, Tirupati — 66% (1998)
+* **MBA (HR)**  - Alagappa University, Karaikudi — 64% (2008)
+* **M.Sc. Psychology** - Sri Venkateswara University, Tirupati — 61.67% (2012)
+* **LL.B.** - Vikrama Simhapuri University, Nellore — 54.93% (2017)
 
 ---
 
