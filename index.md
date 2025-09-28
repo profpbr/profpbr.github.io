@@ -5,9 +5,8 @@ title: "Prof. Patcha Bhujanga Rao (Prof. PBR) - Resume"
 # Prof. Patcha Bhujanga Rao,
 M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.
 
-<!-- Profile Image -->
 <p align="center">
-  <img src="assets/profile.png" alt="Prof. PBR" width="150" style="border-radius:50%;">
+  <img src="assets/profile.jpg" alt="Prof. PBR" width="150" style="border-radius:50%;">
 </p>
 
 
