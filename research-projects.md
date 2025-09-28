@@ -31,10 +31,4 @@ title: "Minor Research Projects & Industry Collaboration - Prof. PBR"
 
 ---
 
-# 🏛️ Industry Collaboration
-- Led and contributed to applied research projects integrating commerce, finance, HR analytics, and industry case-studies.  
-- Coordinated student-industry projects that produced outcome-based assessments and placement-ready portfolios.  
-
----
-
 [⬅ Back to Resume](index.md)
