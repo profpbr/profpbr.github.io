@@ -4,10 +4,12 @@
 
 <!-- This `index.md` is a Markdown resume laid out to match the two-column visual from your image. Replace or update any field as needed. -->
 
-# Prof. Patcha Bhujanga Rao  (Prof. PBR)
+# ![Profile Image](ecb68513-6827-449d-835f-fe11e1141170.png)
+
+**Prof. Patcha Bhujanga Rao, M.Com, M.Phil, MBA, M.Sc (Psy), LL.B, Ph.D.**
 
 📧 **Email:** [prof.pbr@gmail.com](mailto:prof.pbr@gmail.com)
-📱 **Phone:** +91-8121320321
+📱 **Phone:** +91-XXXXXXXXXX
 📍 **Location:** Bangalore, India
 🌐 **LinkedIn:** [https://www.linkedin.com/in/prof-pbr](https://www.linkedin.com/in/prof-pbr)
 🐙 **GitHub / Site:** [https://profpbr.github.io](https://profpbr.github.io)
@@ -133,14 +135,4 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ## Seminars, Workshops & Training
 
-* Conducted and organized multiple seminars and workshops on employability, research methods, patent awareness and soft skills for students and faculty.
-
----
-
-## Notes / Assets
-
-* You provided a visual resume image that can be used as a layout reference. The image file (provided) is available at: `/mnt/data/ecb68513-6827-449d-835f-fe11e1141170.png` — use it if you want to embed or convert the exact visual into HTML/CSS later.
-
----
-
-*This `index.md` is intended as a ready-to-use Markdown resume. Edit any section to fit your preferred wording, contact details, or to add links to PDFs, ORCID, Google Scholar, or patent records.*
+* Conducted and organized multiple seminars and workshops on employability, research methods, patent awarenes
