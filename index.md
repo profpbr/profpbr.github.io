@@ -155,7 +155,7 @@ Professor of Commerce and Management Studies with over 23+ years of teaching, re
 
 ---
 
-## Seminars, Workshops & Training
+# 🧑‍🏫 Programs Organised
 
 * Conducted and organized multiple seminars and workshops on employability, research methods, patent awareness and soft skills for students and faculty.
 
